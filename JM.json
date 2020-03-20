@@ -1,0 +1,12 @@
+[
+{
+    "firstName": "Joe",
+    "lastName": "Momma",
+    "gender": "Male",
+    "age": 25,
+    "email": "joemomma42@gotem.com",
+	"city": "Joliet",
+	"state": "IL",
+	"favoriteHobby": "Pranks"
+}
+]	

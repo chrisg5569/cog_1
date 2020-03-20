@@ -1,0 +1,12 @@
+[
+{
+    "firstName": "Naruto",
+    "lastName": "Uzumaki",
+    "gender": "Male",
+    "age": 33,
+    "email": "BelieveIt03@leaf.com",
+	"city": "Konoha",
+	"state": "LF",
+	"favoriteHobby": "Training"
+}
+]	
